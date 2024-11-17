@@ -2,7 +2,7 @@ This is a my-vehicle-app project. I tried to use Suspence in project as well but
 
 ## Getting Started
 
-First, run the development server:
+To run the development server:
 
 ```bash
 npm run dev
